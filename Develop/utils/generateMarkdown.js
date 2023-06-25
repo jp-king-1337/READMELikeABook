@@ -79,6 +79,42 @@ This application is covered under the ${licenseLink}.
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ## Description
+${data.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Credits
+${data.credits}
+
+## License
+This application is covered under the ${data.license} license.
+
+## Badges
+${data.badges}
+
+## Features
+${data.features}
+
+## How to Contribute
+${data.contribution}
+
+## Tests
+${data.tests}
 `;
 }
 
