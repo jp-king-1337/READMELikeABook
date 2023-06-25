@@ -77,7 +77,11 @@ This application is covered under the ${licenseLink}.
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
+  const licenseBadge = renderLicenseBadge(data.license);
+
   return `# ${data.projectTitle}
+
+${licenseBadge}
 
 ## Description
 ${data.description}
