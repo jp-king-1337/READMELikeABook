@@ -24,7 +24,7 @@ git clone git@github.com:jp-king-1337/READMELikeABook.git
 
 This project is to be graded as part of my participation in the Rutgers Coding Bootcamp.
 
-Screencapture coming soon!
+[Screencapture Link](https://drive.google.com/file/d/1cBxUPS0LryqQTrPOh_DhS5k9i8NzSVEy/view?usp=sharing)
 
 
 ## Credits

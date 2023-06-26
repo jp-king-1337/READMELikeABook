@@ -17,13 +17,13 @@ Sample Description
 git clone git@github.com:jp-king-1337/READMELikeABook.git
 
 ## Usage
-Sample Instructions
+Sample Information
 
 ## License
 This application is covered under the "MIT" license.
 
 ## Contributing
-undefined
+No contributions needed.
 
 ## Tests
 Try it out!
