@@ -1,9 +1,9 @@
-# cvgh
+# Sample Title
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-lkjhg
+Sample Description
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,10 +14,10 @@ lkjhg
 - [Questions](#questions)
 
 ## Installation
-poihg
+git clone git@github.com:jp-king-1337/READMELikeABook.git
 
 ## Usage
-oiu
+Sample Instructions
 
 ## License
 This application is covered under the "MIT" license.
@@ -26,11 +26,11 @@ This application is covered under the "MIT" license.
 undefined
 
 ## Tests
-lkjhg
+Try it out!
 
 ## Questions
 For any questions, please contact me:
 
-GitHub: ["lkhgf"](https://github.com/lkhgf)
+GitHub: ["jp-king-1337"](https://github.com/jp-king-1337)
 
-Email: "test@gmail.com"
+Email: "jp.king.1337@gmail.com"
